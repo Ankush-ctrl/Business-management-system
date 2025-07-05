@@ -12,7 +12,7 @@ This is a system where small buisness helps to managing and visualizing buisness
 1. Install Python 3
 2. Install required libraries:
    pip install pandas matplotlib openpyxl
-3. Run: "python main.py"
+3. Run: "python -m app.main"
 
 ## Excel format should be  
 Date, Cost Price, Sell Price, Quantity, Type, Item (must in the excel file coloumns)
