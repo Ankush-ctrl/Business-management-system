@@ -15,7 +15,7 @@ This is a system where small buisness helps to managing and visualizing buisness
 3. Run: "python -m app.main"
 
 ## Excel format should be  
-Date, Cost Price, Sell Price, Quantity, Type, Item (must in the excel file coloumns)
+Date, Cost Price, Sell Price, Quantity, Type, Item, Category, Region (must in the excel file coloumns)
 "In type you should fill in cash in or cash out format", date format should be "yy-mm-dd"
 
 ## License
